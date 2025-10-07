@@ -4,4 +4,4 @@ shortLabel K562 CTCF
 longLabel K562 ChIA-PET CTCF links (orange)
 visibility pack
 maxHeightPixels 200:100:50
-bigDataUrl https://mlikhite24.github.io/Trackhubs/docs/K562.links.bigInteract.bb
+bigDataUrl https://mlikhite24.github.io/Trackhubs/K562.links.bigInteract.bb
