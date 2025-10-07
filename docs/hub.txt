@@ -1,0 +1,5 @@
+hub BENGI_2
+shortLabel BENGI2
+longLabel BENGI 2.0 links
+genomesFile genomes.txt
+email mary.likhite@umassmed.edu
